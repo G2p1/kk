@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.textviki{
+  font-size: 100px;
+}
+.heart1{
+  position: absolute;
+  top:0;
+  left:0;
+  zoom: 0.4;
+  overflow:hidden;
+  -webkit-transition: flow 3s ease-out;
+  -moz-transition: flow 3s ease-out;
+  -o-transition: flow 3s ease-out;
+  transition: flow 3s ease-out;
+  animation: flow 6s forwards linear normal;
+}
